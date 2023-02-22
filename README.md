@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/FinanstilsynetNO/33fff198-29ab-4e52-8b36-16bba02d9682/8bfdbc07-cca5-481a-9b43-80f902cc8cc1/_apis/work/boardbadge/f5f133d3-7dfa-49d1-b852-4cae9e20936f)](https://dev.azure.com/FinanstilsynetNO/33fff198-29ab-4e52-8b36-16bba02d9682/_boards/board/t/8bfdbc07-cca5-481a-9b43-80f902cc8cc1/Microsoft.RequirementCategory)
 # NuGet Docs
 
 The NuGet documentation contained in this repository is hosted in [NuGet documentation](https://learn.microsoft.com/nuget/). This repository was migrated from the former NuGetDocs repository, https://github.com/NuGet/NuGetDocs, which is no longer in active use.
